@@ -3,7 +3,10 @@
 Selected Country: Cameroon
 
 I chose to work with Cameroon because it's the same country that i used in project 2 where we used demographic and housing data to predict wealth outcomes. 
-Cameroon is a relatively large country in Central Africa and it is home to approximately 25.88 million people. Below is a population density map of Cameroon and it shows that most of the population is situated in the northern region 
+Cameroon is a relatively large country in Central Africa and it is home to approximately 25.88 million people. Below is a population density map of Cameroon and it shows that most of the population is situated in the northern half of the country. Interestingly not a lot of people like to live on the coast.
+
+
+### delete - if model could be adjusted in a way that would allow for agri land to be ignored??
 
 ![pop_map](pop_map.jpeg)
 
