@@ -11,6 +11,10 @@ Cameroon is a relatively large country in Central Africa and it is home to appro
 ![pop_map](pop_map.jpeg)
 
 
+Below is a map of Cameroon and itg's primary administrative regions.
+
+![primary](primary.jpeg)
+
 Using two machine learning methods predict population values at 100 x 100 meter resolution throughout your selected country
 
 
