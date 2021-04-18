@@ -1,5 +1,10 @@
 # Project_3
 
+Selected Country: Cameroon
+
+I chose to work with Cameroon because it's the same country that i used in project 2 where we used demographic and housing data to predict wealth outcomes. 
+
+
 Using two machine learning methods predict population values at 100 x 100 meter resolution throughout your selected country
 
 
