@@ -37,6 +37,7 @@ Strangely enough the model tended to underpredict which is represented by the da
 
 
 Below is a 3D plot of the difference between real population sums and the predicted values. Anywhere you see a hole on this plot is where the model overpredicted. 
+Once again we see the most variation in the city areas. An explanation for this may be that 
 
 
 ![3d](LR_3d.PNG)
