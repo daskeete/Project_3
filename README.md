@@ -41,6 +41,16 @@ Below is a 3D plot of the difference between real population sums and the predic
 
 ![3d](LR_3d.PNG)
 
+## Random Forest
+
+Plot showing predicted population sums
+
+![pops]()
+
+Plot showing difference between real population sums and the predicted values.
+![diffs]()
+
+
 
 Validate the two models using different methods presented in this class
 
