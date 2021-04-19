@@ -19,7 +19,6 @@ Below is a plot of the region as well as its subdivisions.
 
 ![adamaoua](adamaoua.png)
 
-Using two machine learning methods predict population values at 100 x 100 meter resolution throughout your selected country
 
 ## Linear Regression
 
@@ -28,7 +27,7 @@ Plot showing predicted population sums
 ![popsums](popsums.png)
 
 
-Plot showing difference between real population sums and the predicted values.
+Plot showing difference between real population sums and the predicted values (MAE plot). 
 From this graph we can see that the model tends to overpredict population values for city areas, most noticeably for the city of Ngaoundere.
 For easy interpretation < 0 is an overprediction (yellow areas on the map) and > 0 is an underprediction.
 Strangely enough the model tended to underpredict which is represented by the dark green.
@@ -44,11 +43,20 @@ Once again we see the most variation in the city areas. An explanation for this 
 
 ## Random Forest
 
+The most important variable according to this model is sum.ntl.
+
+![impvar]()
+
+Below is a plot of the model error as it decreases with the addition of more trees.
+
+![error]()
+
+
 Plot showing predicted population sums
 
 ![pops](pops.png)
 
-Plot showing difference between real population sums and the predicted values.
+Plot showing difference between real population sums and the predicted values. (MAE plot)
 ![diffs](diffs.png)
 
 
