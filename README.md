@@ -22,6 +22,17 @@ Below is a plot of the region as well as its subdivisions.
 
 Using two machine learning methods predict population values at 100 x 100 meter resolution throughout your selected country
 
+## Linear Regression
+
+Plot showing predicted population sums
+
+![popsums](popsums.png)
+
+
+Plot showing difference between real population sums and the predicted values.
+
+![diffsums](diffsums.png)
+
 
 Validate the two models using different methods presented in this class
 
