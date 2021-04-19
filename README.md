@@ -51,7 +51,7 @@ Plot showing difference between real population sums and the predicted values.
 ![diffs](diffs.png)
 
 
-Below is a 3D plot of the difference between real population sums and the predicted values. Anywhere you see a hole on this plot is where the model overpredicted. 
+Below is a 3D plot of the difference between real population sums and the predicted values of the random forest model. Anywhere you see a hole on this plot is where the model overpredicted and anywhere you see a mountain means the model underpredicted population values.
 
 ![3d](RF_3d.PNG)
 
