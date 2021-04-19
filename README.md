@@ -29,7 +29,7 @@ Plot showing predicted population sums
 
 
 Plot showing difference between real population sums and the predicted values.
-From this graph we can see that the model tends to overpredict population values for city areas.
+From this graph we can see that the model tends to overpredict population values for city areas, most noticeably for the city of Ngaoundere.
 For easy interpretation < 0 is an overprediction (yellow areas on the map) and > 0 is an underprediction.
 Strangely enough the model tended to underpredict which is represented by the dark green.
 
