@@ -56,9 +56,4 @@ Below is a 3D plot of the difference between real population sums and the predic
 
 ![3d](RF_3d.PNG)
 
-Validate the two models using different methods presented in this class
 
-
-
-
-Be sure to account for spatial variation throughout your selected location and provide substantive explanations for why those variations occurred
