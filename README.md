@@ -45,10 +45,10 @@ Below is a 3D plot of the difference between real population sums and the predic
 
 Plot showing predicted population sums
 
-![pops]()
+![pops](pops.png)
 
 Plot showing difference between real population sums and the predicted values.
-![diffs]()
+![diffs](diffs.png)
 
 
 
