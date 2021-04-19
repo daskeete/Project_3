@@ -45,11 +45,11 @@ Once again we see the most variation in the city areas. An explanation for this 
 
 The most important variable according to this model is sum.ntl.
 
-![impvar]()
+![impvar](forest_plot.png)
 
 Below is a plot of the model error as it decreases with the addition of more trees.
 
-![error]()
+![error](forest_error.png)
 
 
 Plot showing predicted population sums
