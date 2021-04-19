@@ -51,6 +51,9 @@ Plot showing difference between real population sums and the predicted values.
 ![diffs](diffs.png)
 
 
+Below is a 3D plot of the difference between real population sums and the predicted values. Anywhere you see a hole on this plot is where the model overpredicted. 
+
+![3d](RF_3d.PNG)
 
 Validate the two models using different methods presented in this class
 
