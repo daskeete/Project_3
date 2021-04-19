@@ -36,7 +36,7 @@ For easy interpretation < 0 is an overprediction (yellow areas on the map) and >
 
 
 Below is a 3D plot of the difference between real population sums and the predicted values. Anywhere you see a hole on this plot is where the model overpredicted. 
-There are virtually zero mountains on this plot so the model rarely ever tended to underpredict.
+
 
 ![3d](LR_3d.PNG)
 
