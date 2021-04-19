@@ -33,6 +33,8 @@ Plot showing difference between real population sums and the predicted values.
 
 ![diffsums](diffsums.png)
 
+From this graph we can see that the model tends to overpredict population values for city areas.
+For easy interpretation < 0 is an overprediction (yellow areas on the map) and > 0 is an underprediction.
 
 Validate the two models using different methods presented in this class
 
