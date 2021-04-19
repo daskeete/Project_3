@@ -15,6 +15,10 @@ Below is a map of Cameroon and it's primary administrative regions.
 
 ![primary](primary.png)
 
+I also decided to focus on the region Adamaoua since my computer didn't want to hand over any extra RAM.
+Below is a plot of the region.
+![adamaoua](adamaoua.png)
+
 Using two machine learning methods predict population values at 100 x 100 meter resolution throughout your selected country
 
 
