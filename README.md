@@ -67,4 +67,6 @@ Below is a 3D plot of the difference between real population sums and the predic
 
 Both the LR model and the RF model tended to underpredict however, in areas like large cities the models tended to overpredict. Given that the most important variable is night time light and cities generally tend to have more lights on average than other areas this may explain why the model tended to overpredict for these areas. To improve this I think we could add special weights to the values for city areas to help with the overpredictions.
 
+Based on the plots I would say that the RF model had the lower error but only slightly.
+
 
